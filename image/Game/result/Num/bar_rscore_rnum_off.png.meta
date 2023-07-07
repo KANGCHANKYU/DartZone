@@ -1,0 +1,462 @@
+fileFormatVersion: 2
+guid: e61a4e1d27c4b7447baf3367eda10687
+timeCreated: 1573183937
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: bar_rscore_rnum_off_1
+    21300002: bar_rscore_rnum_off_3
+    21300004: bar_rscore_rnum_off_5
+    21300006: bar_rscore_rnum_off_7
+    21300008: bar_rscore_rnum_off_9
+    21300010: bar_rscore_rnum_off_11
+    21300012: bar_rscore_rnum_off_13
+    21300014: bar_rscore_rnum_off_15
+    21300016: bar_rscore_rnum_off_17
+    21300018: bar_rscore_rnum_off_18
+    21300020: bar_rscore_rnum_off_21
+    21300022: bar_rscore_rnum_off_22
+    21300024: bar_rscore_rnum_off_23
+    21300026: bar_rscore_rnum_off_24
+    21300028: bar_rscore_rnum_off_25
+    21300030: bar_rscore_rnum_off_36
+    21300032: bar_rscore_rnum_off_37
+    21300034: bar_rscore_rnum_off_38
+    21300036: bar_rscore_rnum_off_39
+    21300038: bar_rscore_rnum_off_40
+    21300040: bar_rscore_rnum_off_51
+    21300042: bar_rscore_rnum_off_52
+    21300044: bar_rscore_rnum_off_53
+    21300046: bar_rscore_rnum_off_54
+    21300048: bar_rscore_rnum_off_55
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: bar_rscore_rnum_off_1
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 754
+        width: 130
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bar_rscore_rnum_off_3
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 749
+        width: 130
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bar_rscore_rnum_off_5
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 752
+        width: 130
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bar_rscore_rnum_off_7
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 751
+        width: 130
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bar_rscore_rnum_off_9
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 751
+        width: 130
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bar_rscore_rnum_off_11
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 574
+        width: 130
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bar_rscore_rnum_off_13
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 573
+        width: 130
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bar_rscore_rnum_off_15
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 574
+        width: 130
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bar_rscore_rnum_off_17
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 574
+        width: 130
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bar_rscore_rnum_off_18
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 540
+        width: 130
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bar_rscore_rnum_off_21
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 365
+        width: 130
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bar_rscore_rnum_off_22
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 361
+        width: 130
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bar_rscore_rnum_off_23
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 360
+        width: 130
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bar_rscore_rnum_off_24
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 361
+        width: 130
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bar_rscore_rnum_off_25
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 359
+        width: 130
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bar_rscore_rnum_off_36
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 182
+        width: 130
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bar_rscore_rnum_off_37
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 183
+        width: 130
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bar_rscore_rnum_off_38
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 186
+        width: 130
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bar_rscore_rnum_off_39
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 181
+        width: 130
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bar_rscore_rnum_off_40
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 183
+        width: 130
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bar_rscore_rnum_off_51
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 9
+        width: 130
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bar_rscore_rnum_off_52
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 6
+        width: 130
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bar_rscore_rnum_off_53
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 9
+        width: 130
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bar_rscore_rnum_off_54
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 9
+        width: 130
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bar_rscore_rnum_off_55
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 4
+        width: 130
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

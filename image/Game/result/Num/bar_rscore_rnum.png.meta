@@ -1,0 +1,481 @@
+fileFormatVersion: 2
+guid: f8c5e466242e0bc44bf2cc78c0e68d19
+timeCreated: 1573183937
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: bar_rscore_rnum_1
+    21300002: bar_rscore_rnum_3
+    21300004: bar_rscore_rnum_5
+    21300006: bar_rscore_rnum_7
+    21300008: bar_rscore_rnum_9
+    21300010: bar_rscore_rnum_11
+    21300012: bar_rscore_rnum_13
+    21300014: bar_rscore_rnum_15
+    21300016: bar_rscore_rnum_17
+    21300018: bar_rscore_rnum_20
+    21300020: bar_rscore_rnum_27
+    21300022: bar_rscore_rnum_29
+    21300024: bar_rscore_rnum_31
+    21300026: bar_rscore_rnum_33
+    21300028: bar_rscore_rnum_35
+    21300030: bar_rscore_rnum_36
+    21300032: bar_rscore_rnum_37
+    21300034: bar_rscore_rnum_42
+    21300036: bar_rscore_rnum_44
+    21300038: bar_rscore_rnum_46
+    21300040: bar_rscore_rnum_48
+    21300042: bar_rscore_rnum_50
+    21300044: bar_rscore_rnum_51
+    21300046: bar_rscore_rnum_52
+    21300048: bar_rscore_rnum_57
+    21300050: bar_rscore_rnum_59
+    21300052: bar_rscore_rnum_61
+    21300054: bar_rscore_rnum_63
+    21300056: bar_rscore_rnum_65
+    21300058: bar_rscore_rnum_0
+    21300060: bar_rscore_rnum_2
+    21300062: bar_rscore_rnum_4
+    21300064: bar_rscore_rnum_6
+    21300066: bar_rscore_rnum_8
+    21300068: bar_rscore_rnum_10
+    21300070: bar_rscore_rnum_12
+    21300072: bar_rscore_rnum_14
+    21300074: bar_rscore_rnum_16
+    21300076: bar_rscore_rnum_18
+    21300078: bar_rscore_rnum_19
+    21300080: bar_rscore_rnum_21
+    21300082: bar_rscore_rnum_22
+    21300084: bar_rscore_rnum_23
+    21300086: bar_rscore_rnum_24
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: bar_rscore_rnum_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 712
+        width: 204
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bar_rscore_rnum_1
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 712
+        width: 204
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bar_rscore_rnum_2
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 712
+        width: 204
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bar_rscore_rnum_3
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 712
+        width: 204
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bar_rscore_rnum_4
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 712
+        width: 204
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bar_rscore_rnum_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 534
+        width: 204
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bar_rscore_rnum_6
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 534
+        width: 204
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bar_rscore_rnum_7
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 534
+        width: 204
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bar_rscore_rnum_8
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 534
+        width: 204
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bar_rscore_rnum_9
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 534
+        width: 204
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bar_rscore_rnum_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 356
+        width: 204
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bar_rscore_rnum_11
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 356
+        width: 204
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bar_rscore_rnum_12
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 356
+        width: 204
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bar_rscore_rnum_13
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 356
+        width: 204
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bar_rscore_rnum_14
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 356
+        width: 204
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bar_rscore_rnum_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 178
+        width: 204
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bar_rscore_rnum_16
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 178
+        width: 204
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bar_rscore_rnum_17
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 178
+        width: 204
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bar_rscore_rnum_18
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 178
+        width: 204
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bar_rscore_rnum_19
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 178
+        width: 204
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bar_rscore_rnum_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 204
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bar_rscore_rnum_21
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 0
+        width: 204
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bar_rscore_rnum_22
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 0
+        width: 204
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bar_rscore_rnum_23
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 0
+        width: 204
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bar_rscore_rnum_24
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 0
+        width: 204
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
